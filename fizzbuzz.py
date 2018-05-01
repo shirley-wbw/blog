@@ -13,6 +13,7 @@ class Fizzbuzz():
         else:
             print(self.number)
 
+#    new feature
 
 for i in range(101):
     aaa=Fizzbuzz(i)
